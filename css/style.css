@@ -120,3 +120,36 @@ footer > a > img{
 .news-div{
     margin-top: 30px;
 }
+
+/* contact */
+.contact-main{
+    background-color: #E6E6E6;
+    width: 120%;
+    margin-left: -30px;
+    height: 570px;
+}
+.contact-main > div{
+    display: inline-block;
+    margin-left: 97px;
+    margin-top: 54px;
+}
+main > iframe{
+    display: inline-block;
+    margin-left: 55px;
+    vertical-align: top;
+    width: 874px;
+    height: 466px;
+    margin-top: 54px;
+}
+main > div > h2{
+    display: inline-block;
+    font-size: 20px;
+    color: #3D58A6
+}
+main > div > p{
+    font-size: 16px;
+    color:#808080
+}
+main > div > p > span{
+    color: black;
+}

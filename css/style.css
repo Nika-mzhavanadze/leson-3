@@ -22,7 +22,7 @@ body{
 .clicked{
     color: red
 }
-header > img{
+header > a > img{
     width: 100px;
     vertical-align: middle;
 }

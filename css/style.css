@@ -1,0 +1,122 @@
+/* general */
+
+body{
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+/* header */
+
+.header-nav > ul{
+    vertical-align: middle;
+    margin-left: 50px;
+    font-size: 22px;
+}
+.header-nav > ul > li{
+    display: inline-block;
+    margin-right: 24px;
+}
+.header-nav{
+    display: inline-block;
+}
+.clicked{
+    color: red
+}
+header > img{
+    width: 100px;
+    vertical-align: middle;
+}
+
+
+/* footer */
+
+footer > div{
+    display: inline-block;
+    height: 30px;
+    width: 2px;
+    background-color: #3D58A6;
+    margin-right: 35px;
+    margin-top: 68px;
+}
+footer > a > img{
+    display: inline-block;
+    height: 30px;
+    margin-right: 35px;
+    margin-top: 68px;
+}
+.footer-logo{
+    display: inline-block;
+}
+
+/* main */
+.main-img-index{
+    display: inline-block;
+    width: 1170px;
+    margin-top: 77px;
+    margin-bottom: 125px;
+}
+.main-h1-1{
+    font-size: 24px;
+    margin-bottom: 36px;
+}
+
+.index-main > div{
+    display: inline-block;
+}
+.index-main > div > section{
+    display: inline-block;
+    width: 570px;
+    height: 225px;
+    background-color: #F2F2F2;
+    vertical-align: middle;
+    margin-right: 30px;
+}
+.index-main-p{
+    display: inline-block;
+    width: 345px; 
+    font-size: 20px;
+    vertical-align: top;
+    margin-left: 60px;
+}
+.index-main > div > section > h3{
+    font-size: 22px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    margin-left: 50px;
+}
+.index-section-img{
+    display: inline-block;
+    margin-left: 38px;
+    color: #3D58A6
+}
+
+/* news */
+.news-section-p-1{
+    display: inline-block;
+    background-color: #3D58A6;
+    font-size: 48px;
+    color: white;
+    margin-top: 40px;
+}
+.news-section-p-2{
+    color: #3D58A6;
+    font-size: 22px;
+    margin-top: 8px;
+}
+.news-main-div-img{
+    display: inline-block;
+    width: 270px;
+}
+.news-h2{
+    font-size: 20px;
+    margin-top: 30px;
+}
+.news-p{
+    display: inline-block;
+    width: 930px;
+    vertical-align: top;
+    margin-left: 38px;
+}
+.news-div{
+    margin-top: 30px;
+}
